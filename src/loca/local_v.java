@@ -7,7 +7,7 @@ public class local_v {
 		local_v A=new local_v();
 	
 		System.out.println(A.i);
-		
+		System.out.println("commit from TL");
 	}
 
 }
